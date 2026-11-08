@@ -1,0 +1,3 @@
+title: Gigavolt Hybrid RAG
+description: A hybrid retrieval-augmented generation system across MariaDB, ChromaDB and MongoDB on AWS
+theme: jekyll-theme-cayman

@@ -1,0 +1,20 @@
+# Secrets and local config
+config.env
+*.pem
+.env
+
+# Data is downloaded by infra/ec2_user_data.sh, not committed
+data/
+manuals/
+*.csv
+!results/latency.csv
+telemetry_data.json
+
+# Generated
+chroma_db/
+results/vectordb/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.DS_Store

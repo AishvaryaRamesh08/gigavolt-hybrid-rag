@@ -1,0 +1,37 @@
+category,question,backend,llm_error,route,encode,sql,vector,mongo,retrieve_parallel,assemble,generate,verify,total,rate_limit_wait
+sample query 1,What are common failure modes for Model X-7000 batteries in high-temperature environments?,gemini:gemini-3.5-flash-lite,False,0.5,17.5,76.0,56.2,7.4,76.6,0.2,1330.3,0.9,1426.0,0
+sample query 2,Which suppliers provide lithium cells for our commercial energy storage units?,gemini:gemini-3.5-flash-lite,False,0.6,26.7,22.3,13.3,0,22.6,0.2,3311.6,0.3,3361.9,0
+"sample query 3, not in ERP",Show me service history for equipment unit SN-4829 and related warranty claims,gemini:gemini-3.5-flash-lite,False,0.2,18.2,21.4,4.2,4.0,21.9,0.2,3395.7,0.3,3452.8,0
+multi-source unit,Show me the service history and warranty claims for equipment unit EQ-7171,gemini:gemini-3.5-flash-lite,False,0.3,16.8,52.1,6.3,5.5,52.2,0.2,3396.1,0.6,3482.4,0
+telemetry unit,What happened to unit SN-X7-0094 and which components were flagged?,gemini:gemini-3.5-flash-lite,False,0.3,23.6,21.5,8.1,4.4,21.7,0.2,1163.5,0.3,1225.9,0
+fault code,What does fault code ERR_COOL_302 indicate and on which units has it occurred?,gemini:gemini-3.5-flash-lite,False,0.2,26.4,0,14.9,2.6,15.0,0.2,5157.6,0.2,5199.7,0
+"thermal, model",How hot do C-1200 units get during thermal faults and what do the manuals advise?,gemini:gemini-3.5-flash-lite,False,0.2,21.5,0.0,15.0,6.8,15.2,0.2,1388.6,0.4,1426.0,0
+procedure,What is the procedure for filing a field warranty claim?,gemini:gemini-3.5-flash-lite,False,0.2,23.0,0.0,6.3,0,6.4,0.1,2740.8,0.3,2770.9,0
+safety,What should a technician do in a battery fire or thermal runaway emergency?,gemini:gemini-3.5-flash-lite,False,0.2,20.7,0.0,5.4,5.4,5.8,0.2,1179.6,0.4,1207.0,0
+specification,What are the specifications of the LFP battery cell?,gemini:gemini-3.5-flash-lite,False,0.2,21.8,0,5.7,0,5.9,0.1,5648.5,0.4,5676.9,0
+warranty aggregate,What are the most common service resolutions and warranty claim outcomes for X-5000 units?,gemini:gemini-3.5-flash-lite,False,0.2,22.6,57.0,6.6,0,57.4,0.2,3363.6,0.4,3444.4,0
+out of scope,What was Gigavolt's total revenue last quarter?,gemini:gemini-3.5-flash-lite,False,0.2,18.9,0,3.3,0,3.4,0.1,2763.9,0.0,2786.7,0
+sample query 1,What are common failure modes for Model X-7000 batteries in high-temperature environments?,gemini:gemini-3.5-flash-lite,False,0.3,17.0,77.6,53.4,8.7,78.1,0.2,3248.8,0.4,3344.7,0
+sample query 2,Which suppliers provide lithium cells for our commercial energy storage units?,gemini:gemini-3.5-flash-lite,False,0.2,18.6,20.5,9.7,0,20.6,0.1,1199.0,0.2,1238.8,0
+"sample query 3, not in ERP",Show me service history for equipment unit SN-4829 and related warranty claims,gemini:gemini-3.5-flash-lite,False,0.2,17.9,21.0,7.6,5.7,22.4,0.2,1438.5,0.2,1496.9,0
+multi-source unit,Show me the service history and warranty claims for equipment unit EQ-7171,gemini:gemini-3.5-flash-lite,False,0.2,16.3,53.5,3.9,4.2,54.0,0.1,3602.5,0.3,3689.9,0
+telemetry unit,What happened to unit SN-X7-0094 and which components were flagged?,gemini:gemini-3.5-flash-lite,False,0.3,18.1,20.9,7.9,9.3,21.3,0.2,1332.8,0.2,1389.2,0
+fault code,What does fault code ERR_COOL_302 indicate and on which units has it occurred?,gemini:gemini-3.5-flash-lite,False,0.2,17.6,0,13.0,3.1,13.1,0.1,9753.0,0.3,9784.4,0
+"thermal, model",How hot do C-1200 units get during thermal faults and what do the manuals advise?,gemini:gemini-3.5-flash-lite,False,0.2,17.6,0.0,13.6,8.2,14.1,0.1,3257.6,0.4,3290.1,0
+procedure,What is the procedure for filing a field warranty claim?,gemini:gemini-3.5-flash-lite,False,0.2,19.2,0.0,6.4,0,6.8,0.1,1952.6,0.3,1979.3,0
+safety,What should a technician do in a battery fire or thermal runaway emergency?,gemini:gemini-3.5-flash-lite,False,0.2,15.9,0.0,4.5,5.8,6.3,0.1,1378.2,0.3,1401.1,0
+specification,What are the specifications of the LFP battery cell?,gemini:gemini-3.5-flash-lite,False,0.2,18.8,0,6.6,0,6.8,0.1,1950.3,0.4,1976.6,0
+warranty aggregate,What are the most common service resolutions and warranty claim outcomes for X-5000 units?,gemini:gemini-3.5-flash-lite,False,0.2,16.7,57.7,5.1,0,57.9,0.1,1424.8,0.3,1500.2,0
+out of scope,What was Gigavolt's total revenue last quarter?,gemini:gemini-3.5-flash-lite,False,0.2,18.7,0,3.2,0,3.3,0.1,892.2,0.0,914.6,0
+sample query 1,What are common failure modes for Model X-7000 batteries in high-temperature environments?,gemini:gemini-3.5-flash-lite,False,0.2,17.2,74.1,42.3,8.2,74.6,0.2,1196.5,0.3,1289.0,0
+sample query 2,Which suppliers provide lithium cells for our commercial energy storage units?,gemini:gemini-3.5-flash-lite,False,0.3,18.5,21.3,10.6,0,21.5,0.1,839.0,0.2,879.6,0
+"sample query 3, not in ERP",Show me service history for equipment unit SN-4829 and related warranty claims,gemini:gemini-3.5-flash-lite,False,0.2,17.5,21.8,10.4,6.0,22.3,0.2,1135.0,0.3,1191.7,0
+multi-source unit,Show me the service history and warranty claims for equipment unit EQ-7171,gemini:gemini-3.5-flash-lite,False,0.2,18.3,53.1,7.0,5.6,53.3,0.2,1496.4,0.4,1585.3,0
+telemetry unit,What happened to unit SN-X7-0094 and which components were flagged?,gemini:gemini-3.5-flash-lite,False,0.3,17.7,21.0,8.8,9.3,21.4,0.2,3070.7,0.2,3126.9,0
+fault code,What does fault code ERR_COOL_302 indicate and on which units has it occurred?,gemini:gemini-3.5-flash-lite,False,0.2,17.8,0,12.0,3.0,12.2,0.2,1309.4,0.3,1340.1,0
+"thermal, model",How hot do C-1200 units get during thermal faults and what do the manuals advise?,gemini:gemini-3.5-flash-lite,False,0.2,17.5,0.0,15.0,7.4,15.2,0.1,1518.3,0.5,1551.9,0
+procedure,What is the procedure for filing a field warranty claim?,gemini:gemini-3.5-flash-lite,False,0.2,18.6,0.0,6.6,0,6.8,0.1,2916.7,0.3,2942.7,0
+safety,What should a technician do in a battery fire or thermal runaway emergency?,gemini:gemini-3.5-flash-lite,False,0.2,15.8,0.0,6.1,4.8,6.3,0.1,2469.2,0.4,2492.1,0
+specification,What are the specifications of the LFP battery cell?,gemini:gemini-3.5-flash-lite,False,0.3,48.6,0,6.5,0,6.7,0.2,1469.3,0.4,1525.6,0
+warranty aggregate,What are the most common service resolutions and warranty claim outcomes for X-5000 units?,gemini:gemini-3.5-flash-lite,False,0.2,16.9,57.5,8.2,0,57.6,0.2,3222.5,0.4,3297.8,0
+out of scope,What was Gigavolt's total revenue last quarter?,gemini:gemini-3.5-flash-lite,False,0.2,18.7,0,3.1,0,3.3,0.1,542.3,0.0,564.7,0
